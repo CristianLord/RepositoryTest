@@ -1,0 +1,15 @@
+C:\Users\Cristian\Documents\CProyects\bin\Debug\net6.0\CProyects.exe
+C:\Users\Cristian\Documents\CProyects\bin\Debug\net6.0\CProyects.deps.json
+C:\Users\Cristian\Documents\CProyects\bin\Debug\net6.0\CProyects.runtimeconfig.json
+C:\Users\Cristian\Documents\CProyects\bin\Debug\net6.0\CProyects.dll
+C:\Users\Cristian\Documents\CProyects\bin\Debug\net6.0\CProyects.pdb
+C:\Users\Cristian\Documents\CProyects\obj\Debug\net6.0\CProyects.csproj.AssemblyReference.cache
+C:\Users\Cristian\Documents\CProyects\obj\Debug\net6.0\CProyects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\Documents\CProyects\obj\Debug\net6.0\CProyects.AssemblyInfoInputs.cache
+C:\Users\Cristian\Documents\CProyects\obj\Debug\net6.0\CProyects.AssemblyInfo.cs
+C:\Users\Cristian\Documents\CProyects\obj\Debug\net6.0\CProyects.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Documents\CProyects\obj\Debug\net6.0\CProyects.dll
+C:\Users\Cristian\Documents\CProyects\obj\Debug\net6.0\refint\CProyects.dll
+C:\Users\Cristian\Documents\CProyects\obj\Debug\net6.0\CProyects.pdb
+C:\Users\Cristian\Documents\CProyects\obj\Debug\net6.0\CProyects.genruntimeconfig.cache
+C:\Users\Cristian\Documents\CProyects\obj\Debug\net6.0\ref\CProyects.dll
